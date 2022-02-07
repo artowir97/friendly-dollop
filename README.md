@@ -90,6 +90,11 @@ znajdujemy.
 
 ### Rozwiązywanie konfliktów
 
+### `git stash`
+
+- https://www.atlassian.com/git/tutorials/saving-changes/git-stash
+
+
 ### Gitflow workflow
 
 #### `git tag`
